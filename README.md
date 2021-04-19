@@ -1,6 +1,4 @@
 # cs571
-# my branch
-
 
 This repo contains a pdf file for week12 and a PPT for Kubernetes Project.
 This is the google slides link to the PPT of this project
